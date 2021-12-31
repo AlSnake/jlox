@@ -1,0 +1,17 @@
+# CONFIG
+.env
+config.json
+
+# Folders
+build
+.vscode
+
+# Others
+jlox.qt.*
+*.expand
+*.bin
+*.o
+*.d
+*.a
+*.class
+
